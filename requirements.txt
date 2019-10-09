@@ -1,0 +1,7 @@
+qiskit
+numpy
+matplotlib
+jupyter
+notebook
+ipywidgets
+IPython
