@@ -14,6 +14,8 @@ These resources mix standard Qiskit and Microqiskit. Hopefully it doesn't get co
 
 ## Get Ready
 
+Go to ibm.biz/qiskit-pyconde
+
 ### Plan A - Run on your own device
 
 * [Download](https://github.com/quantumjim/Qiskit-PyConDE/archive/master.zip) or [clone](https://github.com/quantumjim/Qiskit-PyConDE.git) this repository.
