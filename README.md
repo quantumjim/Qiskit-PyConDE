@@ -20,7 +20,7 @@ These resources mix standard Qiskit and Microqiskit. Hopefully it doesn't get co
 
 * Install [these packages](requirements.txt) (for Python 3).
 
-* Open the Jupyter notebooks found in the *Qiskit-PyConDE* folder.
+* Open the Jupyter notebooks found in this folder.
 
 
 ### Plan B - Run on our cloud service
