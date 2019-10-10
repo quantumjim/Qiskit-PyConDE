@@ -29,7 +29,7 @@ These resources mix standard Qiskit and Microqiskit. Hopefully it doesn't get co
 
 * Use our web-hosted notebooks [here](https://quantum-computing.ibm.com/jupyter).
 
-* Upload the [The Atoms of Computation](atoms-computation.ipynb) notebook.
+* Upload the notebook [The Atoms of Computation](atoms-computation.ipynb).
 
 
 ### Plan C - Don't run anything!
